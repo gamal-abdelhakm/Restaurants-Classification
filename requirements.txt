@@ -1,17 +1,6 @@
 scikit-learn
 datasist
 joblib
-﻿altair
-appdirs
-astor
-attrs
-backcall
-base58
-bleach
-blinker
-boto3
-botocore
-cachetools
 certifi
 chardet
 click
