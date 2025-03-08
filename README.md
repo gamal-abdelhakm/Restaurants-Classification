@@ -1,6 +1,6 @@
 # Restaurants Classification
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-App-brightgreen)](https://share.streamlit.io/gamal-abdelhakm/Fetal-Health-Classification/main/streamlit_app.py)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-brightgreen)](https://share.streamlit.io/gamal-abdelhakm/Restaurants-Classification/main/app.py)
 
 Customer churn prediction, achieving the highest accuracy with Decision Tree Classifier.
 
